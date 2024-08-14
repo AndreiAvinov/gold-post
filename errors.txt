@@ -1,0 +1,21 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 70: end of line expected.
+(Perhaps you left out a " at the end of the first line.)
+    a "Мама собрала сыну портфель в школу: 
+        — Вот, положила тебе в ранец хлеб, колбасу и гвозди.
+        — Мам, зачем??
+        — Ну как же, берешь хлеб, кладешь на него колбасу и ешь.
+        — А гвозди?
+        — Так вот же они!"\
+
+File "game/script.rpy", line 77: expected statement.
+(Perhaps you left out a " at the end of the first line.)
+    "Аля залилась смехом и едва не упала на коленки, но вовремя схватилась за стол. Вы смотрите на неё с пустым выражением. 
+        Должны ли вы испытывать сочувствие или нужно попробовать выдавить из себя смех? Может если игнорировать её анекдоты, то она перестанет вас ими донимать? 
+        Она знает свою работу, готова помочь вам, но вы совершенно не понимаете, как можно смеяться над анекдотами, которые она вам рассказывает."\
+
+Ren'Py Version: Ren'Py 8.2.1.24030407
+Fri Jul 26 21:58:36 2024
